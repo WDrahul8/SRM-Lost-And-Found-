@@ -22,8 +22,8 @@ A full-stack web application developed by students of SRM Institute of Science a
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/arjuncvinod/Lost-And-Found.git
-cd lost-and-found
+git clone(https://github.com/WDrahul8/SRM-Lost-And-Found-.git)
+cd SRM-Lost-And-Found
 ```
 ### Install server dependencies
 ```console cd server
